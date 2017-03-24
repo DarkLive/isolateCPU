@@ -1,6 +1,6 @@
 ## Desc. ##
 
-![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/Cover.jpg)
+![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/Screen.jpg)
 
 ### Installation ###
 1. Navigate to `https://github.com/DarkLive/isolateCPU/releases/latest` or click [here](https://github.com/DarkLive/isolateCPU/releases/latest).
