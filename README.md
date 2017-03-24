@@ -1,4 +1,6 @@
-## A Software to Pack Game/Software Updates. ##
+## Desc. ##
+
+![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/isolatecpu.png)
 
 ![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/Cover.jpg)
 
