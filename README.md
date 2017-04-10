@@ -1,4 +1,4 @@
-## Desc. ##
+## Isolates all processes to CPU0 and leave any other cores to Excluded Apps ##
 
 ![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/Screen.jpg)
 
