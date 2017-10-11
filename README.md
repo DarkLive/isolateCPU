@@ -1,3 +1,9 @@
+# This project is discontinued. #
+
+## A newer/improved version of it is avaible on [my new project](https://github.com/DarkLive/Dark-Toolbox) ##
+
+***
+
 ## Isolates all processes to CPU0 and leave any other cores to Excluded Apps ##
 
 ![alt text](https://raw.githubusercontent.com/DarkLive/isolateCPU/master/Screen.jpg)
